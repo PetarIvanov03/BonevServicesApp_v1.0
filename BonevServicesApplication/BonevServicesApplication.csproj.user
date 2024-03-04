@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllCarsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarCategoryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarCategoryEditDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarFound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarMainCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRepairsByCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRepairsByDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarSubCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
